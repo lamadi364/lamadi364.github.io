@@ -1,0 +1,28 @@
+/* body */
+
+html {
+	box-sizing: border-box;
+	background-color: #AA8899;
+}
+
+body {
+	margin-left: 16%;
+	margin-right: 10%;
+}
+
+/* nav bar */
+
+nav {
+	display: flex;
+}
+
+ul, ol {
+	list-style: none;
+	padding-left: 0px;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 4px;
+}
+
